@@ -54,7 +54,7 @@ body{
     align-items: center;
     margin: 0 auto;
     width: 80%;
-    padding-top: 30px;
+    padding-top: 40px;
     
 }
 
@@ -481,6 +481,18 @@ body{
 
   .img2{
     display: none;
+  }
+
+
+ @media(min-width:1350px){
+    .nav-list{
+        font-size: 1rem;
+    }
+
+    .nav-but-2{
+        width: 120px;
+    height: 40px;
+    }
   }
 
 
